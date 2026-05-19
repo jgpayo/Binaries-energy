@@ -6,8 +6,8 @@ Multiplicity datasets using Gaia DR3:
 
 Columns description:
 
-WDS       WDS (Washington Double Stars) identifiers. If absent, the stellar name in parentheses.
-s         Pair separation in astronomical units (au)
-M         Total star masses in solar masses (M_sun)
-|U*₉|     Binding energies in units of 10³³ J
-Planets   Information on the presence or absence of planets (Yes/No)
+- WDS       WDS (Washington Double Stars) identifiers. If absent, the stellar name in parentheses.
+- s         Pair separation in astronomical units (au)
+- M         Total star masses in solar masses (M_sun)
+- |U*₉|     Binding energies in units of 10³³ J
+- Planets   Information on the presence or absence of planets (Yes/No)
