@@ -8,6 +8,6 @@ Columns description:
 
 - WDS:       WDS (Washington Double Stars) identifiers. If absent, the stellar name in parentheses.
 - s:         Pair separation in astronomical units (au)
-- M:         Total star masses in solar masses (M_sun)
+- M:         Sum of the star masses in the pair in solar masses (M_sun)
 - |U*₉|:     Binding energies in units of 10³³ J
 - Planets:   Information on the presence or absence of planets (Yes/No)
